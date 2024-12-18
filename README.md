@@ -25,7 +25,7 @@ El resultado de su trabajo, debe quedar como se muestra a continuación:
 * La siguiente estructura muestra las secciones y paginas más importantes. 
 * Esto quiere decir, que su documento puede tener más paginas de las mostradas aquí.
 
-![alt text](https://github.com/hcgtech/19.12_EX_FNL_INF_PRECE/blob/main/images/portada.png "PORTADA")
+![alt text](https://github.com/hcgtech/19.12_EX_FNL_INF_PRECE/blob/main/images/portada1.png "PORTADA")
 
 ![alt text](https://github.com/hcgtech/19.12_EX_FNL_INF_PRECE/blob/main/images/indice.png "INDICE") 
 
