@@ -51,7 +51,7 @@ A Partir de la base de datos que obtendrán con Claude.ai mas adelante.
 
 ## 4. Instrucciones para Desarrollo e Implementación
 **Paso 1:**
-* En Gitub, crea un repositorio llamado **examen_13Dic2024**
+* En Gitub, crea un repositorio llamado **examen_19Dic2024**
 
 **Paso 2:**
 * **Solicitar a Claude.ai lo siguiente:**
@@ -108,9 +108,10 @@ _Debes respetar la siguiente consigna_
  > * Convierte en tablas los dos grupos de datos (tablas) (formato: convertir en tabla)
  > * Inserta un grafico en cada tabla.
  > * Genera los datos descriptivos a partir de la tabla. (Estadísticos).
-* Abre la planilla de cálculo de google con ejemplo de datos descriptivos [[pulsa aquí para abrir]]( https://docs.google.com/spreadsheets/d/11q1MyXDT0rHvdsMJ5PwSZOoOaC2glqw5rAhsbwNJMdU/edit?usp=sharing)
+ > * Guarda la planilla con el nombre de: **Reporte de Adicciones y Suicidios**
+* Si quieres (opcional), puedes abrir la planilla de cálculo de google con ejemplo de datos descriptivos [[pulsa aquí para abrir]]( https://docs.google.com/spreadsheets/d/11q1MyXDT0rHvdsMJ5PwSZOoOaC2glqw5rAhsbwNJMdU/edit?usp=sharing)
    
-A Partir de la base de datos que dejo disponible mas adelante.
+Debería quedar algo así:
 ![alt text](https://github.com/hcgtech/19.12_EX_FNL_INF_PRECE/blob/main/images/tabla1.png "TABLA Y GRAFICA")
 
 ![alt text](https://github.com/hcgtech/19.12_EX_FNL_INF_PRECE/blob/main/images/tabla2.png "TABLA Y GRAFICA")
